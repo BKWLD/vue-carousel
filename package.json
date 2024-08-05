@@ -36,7 +36,7 @@
 		"babel-plugin-istanbul": "^6.1.1",
 		"cypress": "10.8.0",
 		"mini-css-extract-plugin": "^1.0.0",
-		"nuxt": "^2.15.7",
+		"nuxt": "^3.12.4",
 		"prism-themes": "^1.9.0",
 		"vue-visual": "^2.6.0",
 		"webpack-cli": "^4.10.0"
